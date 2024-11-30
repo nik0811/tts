@@ -1,5 +1,3 @@
-I'll help you create a proper README.md file for your text-to-speech project. Here's a well-structured version:
-
 ```markdown:text-to-speech/README.md
 # Text-to-Speech Project
 
